@@ -1,2 +1,2 @@
-# U Mann - Whitney Test
+# Mann-Whitney U Test
 ####
