@@ -1,7 +1,7 @@
 # Stock Price MACD Algo Model
 #### The proof of concept project is to develop a simple algo model based on MACD indicator and monthly data using leverage of 3.
 
-![close](https://user-images.githubusercontent.com/106902757/172042857-82e4ba42-729c-4404-b456-96e1c0aeeeb2.png)
+![close](https://user-images.githubusercontent.com/106902757/172060811-0fdff42f-1725-4e3a-80c7-a27f50f9a645.png)
 
 ![capital](https://user-images.githubusercontent.com/106902757/172042864-69a610e7-7fd5-44e3-a37b-07024a029ae7.png)
 
