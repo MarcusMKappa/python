@@ -8,4 +8,4 @@ During my career, I have held team leader roles for the majority of my time, and
 
 I am competent in delegating tasks, time management and process planning. Besides credit risk, my current interests also include areas such as Data Science or Product Management, in which I would like to deepen my knowledge.
 
-The last years of my career, I have spent developing my interest in the field of futures trading, using machine learning algorithms and artificial intelligence. In addition, I served as a credit risk consultant for business clients. I also developed my skills in analytical environments such as KNIME, and became familiar with Data Science and Machine Learning.
+The last years of my career, I have spent developing my interest in the field of futures trading, using machine learning algorithms and artificial intelligence. In addition, I served as a credit risk consultant for business clients. I also developed my skills in analytical environments such as KNIME and Python, and became familiar with Data Science and Machine Learning.
