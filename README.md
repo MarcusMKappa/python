@@ -1,1 +1,1 @@
-# python-code
+# stock-price-macd-model
