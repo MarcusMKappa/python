@@ -1,1 +1,1 @@
-# stock-price-macd-model
+# Python Projects
