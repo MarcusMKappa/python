@@ -7,4 +7,9 @@
 ![long_short](https://user-images.githubusercontent.com/106902757/172042878-25bd840f-4226-4b15-97c1-a2ae751c62b4.png)
 ![dd](https://user-images.githubusercontent.com/106902757/172042885-39f94356-3e6b-4728-b9a6-2f3c8b725974.png)
 
+
+#### Knime Workflow
+![macd-knime](https://user-images.githubusercontent.com/106902757/172438354-5bdcde1b-b08d-45d8-bd4b-ec9921d7c168.png)
+
+
 Date: May 2022
